@@ -19,8 +19,6 @@ export default function Home() {
     );
   });
 
-  console.log(cardElement);
-
   return (
     <div className="home">
       <div className="home__detail">
