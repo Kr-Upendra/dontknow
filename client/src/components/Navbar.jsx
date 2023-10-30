@@ -13,7 +13,7 @@ export default function Navbar() {
       <div className="navbar__logo">
         <Link to=".">
           <img
-            src="./img/logo.png"
+            src="/img/logo.png"
             className="navbar__logo--img"
             alt="Logo | Cricket Fever"
           />

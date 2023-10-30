@@ -6,7 +6,7 @@ export default function Sidebar() {
       <div className="sidebar__logo">
         <Link to=".">
           <img
-            src="./img/logo_long.png"
+            src="/img/logo_long.png"
             alt="Cricket Fever Logo"
             className="sidebar__logo--img"
           />

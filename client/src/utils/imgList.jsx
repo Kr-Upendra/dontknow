@@ -1,0 +1,18 @@
+export const imgList = [
+  "AUS",
+  "ENG",
+  "IND",
+  "NEP",
+  "NZL",
+  "PAK",
+  "AFG",
+  "NAM",
+  "SA",
+  "SRL",
+  "OMN",
+  "ZIM",
+  "BAN",
+  "NED",
+  "HKG",
+  "UAE",
+];
