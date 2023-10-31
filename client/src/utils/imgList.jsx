@@ -7,7 +7,7 @@ export const imgList = [
   "PAK",
   "AFG",
   "NAM",
-  "SA",
+  "RSA",
   "SRL",
   "OMN",
   "ZIM",
